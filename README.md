@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hi, I'm Abdulquadri Lawal (PQSentinel)
 
-<!--
-**PQsentinel/pqsentinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Security Engineer | Blue Team | Cybersecurity
 
-Here are some ideas to get you started:
+BUILD • SECURE • EVOLVE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about cybersecurity, network defense, and building secure systems.
+
+I'm currently developing my technical foundations through structured learning, hands-on laboratories, and practical cybersecurity projects.
+
+🔐 Areas of Interest
+
+- Security Operations (SOC)
+- Network Defense & Monitoring
+- Threat Detection and Incident Response
+- Linux System Administration
+- Python for Cybersecurity
+- Cloud Security
+
+🛠️ Technologies & Tools
+
+- Networking: Cisco Networking, TCP/IP
+- Operating Systems: Linux
+- Programming: Python (Learning)
+- Security: CyberOps, Network Security Fundamentals
+
+📚 Currently Learning
+
+- Cisco CyberOps Associate
+- Security Monitoring and Detection
+- Linux and Python for Security
+- Practical Blue Team Operations
+
+🚀 Projects & Practical Work
+
+- "CyberOps Associate Labs" (https://github.com/PQsentinel/cyberops-associate-labs) — Documenting my cybersecurity labs, exercises, troubleshooting, and technical observations.
+
+🌐 Connect With Me
+
+- "LinkedIn" (https://www.linkedin.com/in/abdulquadri-lawal-9251a4296/)
+- "GitHub" (https://github.com/PQsentinel)
+
+---
+
+Learning continuously. Building practically. Securing intelligently.
+
+PQSENTINEL | BUILD • SECURE • EVOLVE.
